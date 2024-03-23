@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jhazmine Roque	roque.pracdev01@gmail.com	@rokksieee_
 
 # THANKS
 
